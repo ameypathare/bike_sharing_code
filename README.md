@@ -69,7 +69,6 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
 
 <li>Charts used</li> 
     <ul type = "circle">
-    ${\color{red}Null \space Handling \space used:}$
      <li>BarChart</li>
      <li>BoxPlot</li>
       <li>Pairplot</li>
