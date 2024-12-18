@@ -62,9 +62,11 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
 <br>
 
 <li>Checked Multicollinearity and dropped columns where values were sperated from rest of the columns</li> 
- <br> 
+<br> 
  
 <li>Performed  EDA</li> 
+<br>
+
 <li>Charts used</li> 
     <ul type = "circle">
     ${\color{red}Null Hnadling \space used:}$
