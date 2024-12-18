@@ -57,7 +57,7 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
    <li>to_date(column, format)</li>
   </ul>
 
-
+<br>
 <li>Removed Outliers as the outliers were present more in the pickup_counts column</li> 
 <br>
 
@@ -69,7 +69,7 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
 
 <li>Charts used</li> 
     <ul type = "circle">
-    ${\color{red}Null Hnadling \space used:}$
+    ${\color{red}Null \space Handling \space used:}$
      <li>BarChart</li>
      <li>BoxPlot</li>
       <li>Pairplot</li>
@@ -84,9 +84,11 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
   <br>
 
   <li>Models  used</li> 
+  <br>
+  
 <li>Charts used</li> 
     <ul type = "circle">
-    ${\color{red}Linear  Regression}$
+     <li>Linear  Regression</li>
      <li>Lasso  Regression</li>
      <li>Elastic  Net</li>
       <li>Ridge  Regression</li>
