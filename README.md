@@ -16,7 +16,7 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
 
 <li>Data Cleaning</li> 
     <ul type = "circle">
-    ${\color{red}Null Hnadling used:}$
+    ${\color{red}Null \space Handling \space used:}$
      <li>isNull()</li>
      <li>isNotNull()</li>
       <li>fillna(value)</li>
@@ -25,20 +25,20 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
   <br>
   
    <ul type = "circle">
- ${\color{red}Duplicate Handling used}$
+ ${\color{red}Duplicate \space Handling \space used}$
    <li>dropDuplicates()</li>
    <li>distinct()</li>
    </ul>
 <br>
 
  <ul type = "circle">
-  ${\color{red}Date functions used}$
+  ${\color{red}Date \space functions \space used}$
    <li>DATEPART</li>
    </ul>
   <br>
 
   <ul type = "circle">
-  ${\color{red}Column Operations used}$
+  ${\color{red}Column \space Operations \space used}$
    <li>withColumn(columnName, expression)</li>
    <li>drop(columnName)</li>
    <li>alias(newName)</li>
@@ -46,14 +46,14 @@ $${\color{lightgreen}Overview \space Of \space Code:}$$
   <br>
 
    <ul type = "circle">
-  ${\color{red}Filtering and Validation used}$
+  ${\color{red}Filtering \space and \space Validation \space used}$
    <li>filter(condition)</li>
    <li>where(condition)</li>
    </ul>
   <br>
   
   <ul type = "circle">
-  ${\color{red}Date Functions}$
+  ${\color{red}Date \space Functions}$
    <li>to_date(column, format)</li>
   </ul>
 
